@@ -9,9 +9,6 @@ tags: []
 category: [new technology]
 comments: true
 share: true
-header:
-  image: /assets/images/code_crush_banner.png
-  caption: "With Kiana and Julie"
 ---
 
 >Kiana and Julie dive into Machine Learning and attempt to put their new knowledge into real, human words. Their discussion leads to a variety of new ways to pronounce "Google".

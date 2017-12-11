@@ -8,9 +8,6 @@ header-img: /assets/stone_banner.png
 thumbnail: /assets/owner/hero/vue_logo.png
 tags: [javascript]
 categories: [new technology]
-header:
-  image: /assets/images/code_crush_banner.png
-  caption: "With Kiana and Julie"
 ---
 > Kiana and Julie compare their findings after time-boxing 1 hour to dabble in Vue.js, the popular new Javascript framework. Will they love the new framework or decide it's just an icky soup of code?
 

@@ -26,9 +26,17 @@ github_username:  codecrushed
 repository: "codecrushed/codecrushed.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 teaser: assets/images/code_crush_banner.png
+header:
+  teaser: /assets/images/code_crush_banner.png
 search: true
 og_image: assets/images/code_crush_logo.png
 defaults:
+  - scope:
+      path: ""
+    values:
+      header:
+        image: /assets/images/code_crush_banner.png
+        caption: "With Kiana and Julie"
   # _posts
   - scope:
       path: ""
