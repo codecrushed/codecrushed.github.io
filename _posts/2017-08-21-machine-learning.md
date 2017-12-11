@@ -10,8 +10,13 @@ category: [new technology]
 comments: true
 share: true
 ---
+>The Machines are Learning!!!
+<!-- Machine Learning Episode 2 -->
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/3586d7d2?color=f5f5f5' width='100%'></iframe>
+---
+>Intro To Machine Learning
 
->Kiana and Julie dive into Machine Learning and attempt to put their new knowledge into real, human words. Their discussion leads to a variety of new ways to pronounce "Google".
+Kiana and Julie dive into Machine Learning and attempt to put their new knowledge into real, human words. Their discussion leads to a variety of new ways to pronounce "Google".
 
 # How to Introduce Yourself to Machine Learning
 We recommend that you start your machine learning adventure with the article [A

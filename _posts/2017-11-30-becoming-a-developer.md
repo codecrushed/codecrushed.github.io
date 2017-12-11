@@ -11,6 +11,8 @@ comments: true
 share: true
 ---
 >Becoming a Developer: The Bridge Troll Riddles
+<!-- Becoming a Dev -->
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/11e92320?color=f5f5f5' width='100%'></iframe>
 ---
 Julie and Kiana are interviewed by Sandra, host of the podcast 'The United States of
 Geekdom'. She finds out how they became developers and gets advice on how she

@@ -10,9 +10,13 @@ category: [pair programming]
 comments: true
 share: true
 ---
+>Can You Hear Us Pairing?
+<!-- Pair Programming -->
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/cadf46cf?color=f5f5f5' width='100%'></iframe>
+---
 >Pros & Cons of Pair Programming
-Kiana and Julie discuss pair programming. Will they give it one thumb up, two thumbs up, three thumbs up, or will they be too confused by Julie's impromptu rating system to rate it at all?
 
+Kiana and Julie discuss pair programming. Will they give it one thumb up, two thumbs up, three thumbs up, or will they be too confused by Julie's impromptu rating system to rate it at all?
 ---
 ## What Was That Buzzword Again?
 * Pair Programming: When 2 developers work together on a single machine
