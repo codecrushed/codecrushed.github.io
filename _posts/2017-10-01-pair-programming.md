@@ -4,18 +4,12 @@ title:      "Episode 5"
 subtitle:   "Can You Hear Us Pairing?"
 date:       2017-10-02 12:00:00
 author:     "Code Crush"
-header-img: "assets/owner/blog/header/post-bg-01.jpg"
-thumbnail: /assets/owner/pear-programming.png
+thumbnail: /assets/pear-programming.png
 tags: [pair programming]
 category: [pair programming]
 comments: true
 share: true
-header:
-  image: /assets/images/code_crush_banner.png
-  caption: "With Kiana and Julie"
 ---
-{% include figure image_path="/assets/images/code_crush_banner.png" alt="Code Crush Podcast" %}
-
 >Pros & Cons of Pair Programming
 Kiana and Julie discuss pair programming. Will they give it one thumb up, two thumbs up, three thumbs up, or will they be too confused by Julie's impromptu rating system to rate it at all?
 

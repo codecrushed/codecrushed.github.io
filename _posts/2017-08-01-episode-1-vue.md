@@ -4,8 +4,7 @@ title: Episode 1
 subtitle: A Vue View for You
 date:       2017-08-06 12:00:00
 author:     "CodeCRUSH"
-header-img: /assets/stone_banner.png
-thumbnail: /assets/owner/hero/vue_logo.png
+thumbnail: /assets/vue_logo.png
 tags: [javascript]
 categories: [new technology]
 ---

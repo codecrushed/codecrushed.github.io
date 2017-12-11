@@ -45,6 +45,8 @@ defaults:
       layout: single
       author_profile: true
       related: true
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
@@ -52,6 +54,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
