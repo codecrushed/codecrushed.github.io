@@ -1,18 +1,10 @@
 ---
-layout: page
-title: About
+layout: splash
+title: "About"
 permalink: /about/
+  image: /assets/images/code_crush_banner.png
+header:
+  caption: "With Kiana and Julie"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ Join professional developers Kiana and Julie as they dabble in new technologies, confess their development sins, and laugh at the awkward realities of life as a female developer.

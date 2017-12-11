@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title:  "Welcome to Jekyll!"
 date:   2017-12-08 19:30:22 -0600
 categories: jekyll update
