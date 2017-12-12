@@ -2,11 +2,7 @@
 layout: single
 description: "Insert Directly Into Ears"
 title: "Episodes"
-header-img: /assets/stone_banner.png
 permalink: /episodes/
-header:
-  image: /assets/images/code_crush_banner.png
-  caption: "With Kiana and Julie"
 ---
 
 <h4>Episode 7: Becoming A Developer - The Bridge Troll Riddles</h4>
