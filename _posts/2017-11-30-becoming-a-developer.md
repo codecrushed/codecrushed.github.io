@@ -4,7 +4,8 @@ title:      "Episode 7"
 subtitle:   "Becoming a Developer: The Bridge Troll Riddles"
 date:       2017-11-13 12:00:00
 author:     "Code Crush"
-thumbnail: /assets/bridge_troll.jpg
+header:
+  teaser: /assets/images/bridge_troll.jpg
 tags: [new developer]
 category: [new developer]
 comments: true

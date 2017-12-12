@@ -4,7 +4,8 @@ title:      "Episode 2"
 subtitle:   "The Machines Are Learning!!!"
 date:       2017-08-21 12:00:00
 author:     "Code Crush"
-thumbnail: /assets/no_brain.jpg
+header:
+  teaser: /assets/images/no_brain.jpg
 tags: []
 category: [new technology]
 comments: true

@@ -4,7 +4,8 @@ title:      "Episode 5"
 subtitle:   "Can You Hear Us Pairing?"
 date:       2017-10-02 12:00:00
 author:     "Code Crush"
-thumbnail: /assets/pear-programming.png
+header:
+  teaser: /assets/images/pear-programming.png
 tags: [pair programming]
 category: [pair programming]
 comments: true

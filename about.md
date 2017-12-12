@@ -32,6 +32,7 @@ development.
 She is now a full stack developer, and currently works in React.js.
 
 Julie has been married "figuratively" forever to her high school sweetheart,
-Donnie. She has 2 munchkins, named Cece and Daniel, who she loves to do science
-experiments with. Julie is also obsessed with books, and has a special
-facination with behavioral economics. (Yes, she knows she is weird.)
+Donnie. She has 2 munchkins, named Cece and Daniel. She is raising them geeky,
+and they enjoy explosive science experiments as a family.
+Julie is also obsessed with books, and has a special
+facination with behavioral economics.
