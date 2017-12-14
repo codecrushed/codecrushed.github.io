@@ -13,7 +13,10 @@ categories: [new technology]
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/58cef492?color=f5f5f5' width='100%'></iframe>
 ---
 > Intro To Vue.js
+
+
 Kiana and Julie compare their findings after time-boxing 1 hour to dabble in Vue.js, the popular new Javascript framework. Will they love the new framework or decide it's just an icky soup of code?
+---
 
 
 # About Vue.js

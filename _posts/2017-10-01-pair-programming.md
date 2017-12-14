@@ -13,14 +13,18 @@ share: true
 >Can You Hear Us Pairing?
 <!-- Pair Programming -->
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/cadf46cf?color=f5f5f5' width='100%'></iframe>
----
+
+
 >Pros & Cons of Pair Programming
 
+
 Kiana and Julie discuss pair programming. Will they give it one thumb up, two thumbs up, three thumbs up, or will they be too confused by Julie's impromptu rating system to rate it at all?
----
-## What Was That Buzzword Again?
+
+
+# What Was That Buzzword Again?
 * Pair Programming: When 2 developers work together on a single machine
 * Linter: Tool that detects code errors and style issues
+
 
 
 ## Pair Programming Resources
@@ -30,5 +34,3 @@ Kiana and Julie discuss pair programming. Will they give it one thumb up, two th
   & Cons](http://www.johng.co.uk/2010/07/04/pair-programming-pros-and-cons/)
 * [Pair Programming Considered
   Harmful?](https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/)
-
-___
