@@ -19,7 +19,10 @@ Kiana and Julie talk about net neutrality, and not having net neutrality, and no
 
 Julie also announces the release of her new ebook, "How to Become a Web Developer - The Career Changer's Guide."
 
-# What Was That Buzzword Again?
+# Julie's New Ebook
+[How to Become a Web Developer - The Career Changer's Guide](http://amzn.to/2DkYPqw)
+
+## What Was That Buzzword Again?
 * Net Neutrality: The principle that ISPs should treat all internet traffic
   equality and not block or slow down particular sites.
 * ISP: Internet Service Provider. A company that provides internet access to
@@ -29,6 +32,7 @@ Julie also announces the release of her new ebook, "How to Become a Web Develope
 
 
 ## More About Net Neutrality
+
 * [Municipal Broadband: Comcast Sues Chattanooga, TN](https://www.theverge.com/2015/5/1/8530403/chattanooga-comcast-fcc-high-speed-internet-gigabit)
 * [Municipal Broadband: Greenfield, MA](https://psmag.com/news/the-town-that-made-its-own-internet)
 
