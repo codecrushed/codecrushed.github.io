@@ -4,7 +4,9 @@ description: "Insert Directly Into Ears"
 title: "Episodes"
 permalink: /episodes/
 ---
-
+<h4>Episode 8: Not NOT Net Neutrality</h4>
+<!-- Net Neutrality-->
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/d77e3e3b?color=f5f5f5' width='100%'></iframe>
 <h4>Episode 7: Becoming A Developer - The Bridge Troll Riddles</h4>
 <!-- Becoming a Dev -->
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/11e92320?color=f5f5f5' width='100%'></iframe>

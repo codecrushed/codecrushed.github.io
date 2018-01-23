@@ -31,4 +31,5 @@ Julie also announces the release of her new ebook, "How to Become a Web Develope
 ## More About Net Neutrality
 * [Municipal Broadband: Comcast Sues Chattanooga, TN](https://www.theverge.com/2015/5/1/8530403/chattanooga-comcast-fcc-high-speed-internet-gigabit)
 * [Municipal Broadband: Greenfield, MA](https://psmag.com/news/the-town-that-made-its-own-internet)
+
 ---
